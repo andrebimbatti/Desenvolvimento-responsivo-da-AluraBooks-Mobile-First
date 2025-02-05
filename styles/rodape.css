@@ -15,15 +15,17 @@ hr {
     .rodape{
         display: flex;
         justify-content: space-around;
+        padding: 2em 0;
     }
     .colunas {
         display: block;
         margin: 0 2em;
-        padding: 2em 1em
+        padding: 0em 1em
     }
 
     .rodape__titulo {
         font-size: 24px;
+        padding: 1em 0;
     }
 
     .colunas__titulo {
@@ -42,6 +44,20 @@ hr {
         font-size: 14px;
         font-weight: 400;
         color: var(--cor-rodape);
+    }
+
+}
+
+@media screen and (min-width: 1728px){
+
+    .colunas {
+        border-left: 2px solid var(--cor-rodape-titulo);
+        padding: 0 1em 0 2em;
+
+    }
+
+    .rodape {
+        padding: 3em 0;
     }
 
 }

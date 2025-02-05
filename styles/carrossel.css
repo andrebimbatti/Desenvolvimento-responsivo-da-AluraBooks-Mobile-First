@@ -106,10 +106,16 @@
 }
 
 @media screen and (min-width: 1728px){
+
+
     .carrossel__grande {
         display: flex;
         align-items: center;
         margin: 0 15vw 3em 15vw;
+    }
+
+    .carrossel__titulo{
+        padding: 2em 0 1em 0;
     }
 
     .swiper-pagination {
@@ -118,6 +124,7 @@
 
     .swiper{
         width: 50%;
+        margin-right: 5em;
     }
 
     .card {
