@@ -8,6 +8,14 @@
     padding: 1em;
 }
 
+.container__botao:checked ~.container__rotulo > .cabeçalho__menu-hamburguer{
+    background-image: url("../img/Menu_Aberto.svg");
+}
+
+.container__botao:checked ~.container__rotulo{
+    background: var(--azul-degrade);
+}
+
 .cabeçalho {
     background-color: var(--branco);
     display: flex;

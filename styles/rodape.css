@@ -35,7 +35,7 @@ hr {
         color: var(--cor-rodape-titulo);
     }
 
-    .colunas__links {
+    .colunas__links-link {
         display: flex;
         align-items: center;
         gap: 0.5em;
@@ -46,6 +46,9 @@ hr {
         color: var(--cor-rodape);
     }
 
+    .colunas__links-link:hover{
+        color: var(--laranja);
+    }
 }
 
 @media screen and (min-width: 1728px){
