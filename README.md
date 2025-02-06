@@ -19,6 +19,12 @@ Este projeto consiste na criação de um design responsivo utilizando a abordage
 - **CSS3**: Estilização e responsividade do layout.
 - **SwiperJS**: Biblioteca JavaScript para criar carrosséis interativos e responsivos.
 
+## Design do Projeto
+
+O layout do projeto foi criado no Figma. Você pode acessar o design completo através do link abaixo:
+
+🎨 [Acessar Design no Figma](https://www.figma.com/design/3udfJIfCBuTlEn8wUkZXJb/HTML-e-CSS%3A-responsividade-com-mobile-first-%7C-AluraBooks-(Community)?node-id=37-94&p=f&t=LnDq4ROwifJ2Cwey-0)
+
 ## Deploy
 
 O projeto está disponível online e pode ser acessado através do seguinte link:
