@@ -4,4 +4,4 @@ Design responsivo:
 
 ✅ Celulares (390px)
 ✅ Tablets (1024px)
-✍ Computadores (1728px) - Em desenvolvimento
+✅ Computadores (1728px)

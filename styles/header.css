@@ -89,7 +89,15 @@
 
     .container__item {
         text-transform: uppercase;
-        padding: 0 1em;
+        padding: 1.8em 1em;
+    }
+
+    .container__item:hover{
+        background-color: var(--azul);
+    }
+
+    .container__item:hover > .container__item-link{
+        color: var(--branco);
     }
 
     .container__item-link {
@@ -106,15 +114,15 @@
         width: auto;
     }
 
-    .container__item {
-        padding: 1.8em 1em;
-    }
-
     .opcoes__botao:checked ~ label .item__menu{
         background-color: var(--azul);
         color: var(--branco);
     }
 
+    .item__menu:hover{
+        cursor: pointer;
+        color: var(--branco);
+    }
     
     .lista-menu__item:hover .lista-menu__link{
         background: none;
