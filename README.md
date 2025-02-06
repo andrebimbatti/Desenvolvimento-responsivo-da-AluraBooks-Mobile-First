@@ -41,5 +41,3 @@ O projeto está disponível online e pode ser acessado através do seguinte link
 Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
 
 ---
-
-Feito com 💜 por [André Bimbatti](https://github.com/andrebimbatti).
