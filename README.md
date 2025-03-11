@@ -23,7 +23,7 @@ Este projeto consiste na criação de um design responsivo utilizando a abordage
 
 O layout do projeto foi criado no Figma. Você pode acessar o design completo através do link abaixo:
 
-🎨 [Acessar Design no Figma](https://www.figma.com/design/3udfJIfCBuTlEn8wUkZXJb/HTML-e-CSS%3A-responsividade-com-mobile-first-%7C-AluraBooks-(Community)?node-id=37-94&p=f&t=LnDq4ROwifJ2Cwey-0)
+🎨 [Acessar Design no Figma](https://www.figma.com/community/file/1410386210865694868)
 
 ## Deploy
 
